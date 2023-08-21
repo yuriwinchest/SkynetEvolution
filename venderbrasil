@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Loja Dropshipping</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="search">
+        <input type="text" placeholder="Buscar produtos...">
+        <button class="btn">Buscar</button>
+    </div>
+    <div class="menu">
+        <a href="#">Compre por toda loja</a>
+        <a href="#">Telefonia</a>
+        <a href="#">Eletrodomésticos</a>
+        <a href="#">TVs e Vídeo</a>
+        <a href="#">Móveis</a>
+        <a href="#">Eletroportáteis</a>
+        <a href="#">Informática</a>
+        <a href="#">Serviços</a>
+    </div>
+    <div class="banner">
+        <div class="slide active">
+            <img src="https://www.casasbahia-imagens.com.br/criacao/01-home/bannertv/2023/08-ago/15/tv-cdc-quarta.jpg" alt="Descrição da Imagem 2">
+        </div>
+        <div class="slide">
+            <img src="https://www.casasbahia-imagens.com.br/criacao/01-home/bannertv/2023/08-ago/14/tv-casa.jpg" alt="Descrição da Imagem 3">
+        </div>
+        <div class="slide">
+            <img src="https://www.casasbahia-imagens.com.br/criacao/16-trade/2023/08-ago/14/home-lg.png" alt="Descrição da Imagem 4">
+        </div>
+        <div class="slide">
+            <img src="https://www.casasbahia-imagens.com.br/criacao/01-home/bannertv/2023/08-ago/15/tv07-quarta-cozinha.jpg" alt="Descrição da Imagem 5">
+        </div>
+        <div class="slide">
+            <img src="https://www.casasbahia-imagens.com.br/criacao/01-home/bannertv/2023/08-ago/14/tv-geral.jpg" alt="Descrição da Imagem 6">
+        </div>
+        <div class="slide">
+            <img src="https://www.casasbahia-imagens.com.br/Banner/Mobile/c32481d3-5686-4798-8101-9a1e1cf15c4c.jpg" alt="Banner 1">
+        </div>
+        <div class="slide">
+            <img src="https://www.casasbahia-imagens.com.br/Banner/Mobile/f8a4dc48-01f6-4284-ab55-492b906d67f7.png" alt="Banner 2">
+        </div>
+    </div>
+    <section class="featured-products">
+        <div class="product-grid">
+      
+                <img src="https://www.casasbahia-imagens.com.br/criacao/01-home/mosaico/2023/08-ago/14/1.png" alt="produtos caixa de som">
+            </div>
+        
+                <img src="https://www.casasbahia-imagens.com.br/criacao/01-home/mosaico/2023/08-ago/15/2.png" alt="produtos caixa de som">
+            </div>
+        
+                <img src="https://www.casasbahia-imagens.com.br/criacao/01-home/mosaico/2023/08-ago/14/3.png" alt="produtos caixa de som">
+            </div>
+         
+                <img src="https://www.casasbahia-imagens.com.br/criacao/01-home/mosaico/2023/08-ago/14/4.png" alt="produtos caixa de som">
+            </div>
+          
+                <img src="https://www.casasbahia-imagens.com.br/criacao/01-home/mosaico/2023/08-ago/14/5.png" alt="produtos caixa de som">
+            </div>
+           
+                <img src="https://www.casasbahia-imagens.com.br/criacao/01-home/mosaico/2023/08-ago/14/6.png" alt="produtos caixa de som">
+            </div>
+          
+                <img src="https://imgs.casasbahia.com.br/55050932/1g.jpg" alt="produtos caixa de som">
+            </div>
+        </div>
+    </section>
+    <script src="scripts.js"></script>
+</body>
+</html>
